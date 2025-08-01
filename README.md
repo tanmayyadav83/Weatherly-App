@@ -3,14 +3,15 @@
 
 Weatherly-App is a simple and responsive weather application that allows users to get real-time weather updates for any city around the world. Users can enter the name of a city, and the app will fetch and display the current temperature, humidity, and weather conditions using the OpenWeather API.
 
-## Features
+## Features:
 
 - Real-time weather data for any city
+- Dynamic background changes based on current weather conditions (clear, rain, snow, clouds, etc.)
 - Displays temperature, humidity, and general weather description
 - Clean and responsive user interface
 - Built using only frontend technologies
 
-## Technologies Used
+## Technologies Used:
 
 - HTML - Structure of the web page
 - CSS - Styling and layout
@@ -18,7 +19,7 @@ Weatherly-App is a simple and responsive weather application that allows users t
 - JavaScript - Functionality and API handling
 - OpenWeatherMap API - Source of real-time weather data
 
-## How to Use
+## How to Use:
 
 1. Clone the repository:
 
@@ -29,6 +30,10 @@ Weatherly-App is a simple and responsive weather application that allows users t
 
 3. Enter the name of any city in the input field and click the Get Weather button.
 
-   ![web1](https://github.com/tanmayyadav83/Weather-Web/blob/main/first.png?raw=true)
-   ![web2](https://github.com/tanmayyadav83/Weather-Web/blob/main/second.png?raw=true)
+## Screenshots:
+
+   ![web1](https://github.com/tanmayyadav83/Weatherly-App/blob/main/homepage.png?raw=true)
+   ![web2](https://github.com/tanmayyadav83/Weatherly-App/blob/main/clearsky.png?raw=true)
+   ![web3](https://github.com/tanmayyadav83/Weatherly-App/blob/main/cloud.png?raw=true)
+   ![web4](https://github.com/tanmayyadav83/Weatherly-App/blob/main/rain.png?raw=true)
 
